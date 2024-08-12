@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+}
+section {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+#key {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+.div-item {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+.boxCreate {
+    display: flex;
+}
